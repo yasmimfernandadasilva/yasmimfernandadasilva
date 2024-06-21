@@ -1,6 +1,7 @@
-## Hi there 👋
-
-<!--
+## Hi there. seja bem vindo ao meu perfil
+sou a yasmim fernanada
+etudo na escola edmur neves professor
+<!--estou aqui para compartilhar meus projetos e atividdas do curso alura
 **yasmimfernandadasilva/yasmimfernandadasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
